@@ -2,13 +2,6 @@
 #include <thesis.mrk>
 !title Minimalist User Guide to Write Ph.D. Thesis
 !author Spartrekus, Developper
-// !tex
-// %\documentclass[11pt]{article}
-// \usepackage{url}
-// \usepackage{hyperref}
-// \newcommand{\mbf}[1]{{\bfseries #1}}
-// %\begin{document}
-// !begin
 !begin
 !maketitle
 
